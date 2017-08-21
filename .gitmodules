@@ -1,0 +1,3 @@
+[submodule "ASALIB"]
+	path = ASALIB
+	url = git@github.com:mickey9910326/rev_ASA_lib.git
